@@ -1,0 +1,5 @@
+boh\qa\automation\framework\utils\ExcelUtil.class
+boh\qa\automation\framework\base\FrameworkBasePage.class
+boh\qa\automation\framework\utils\ElementsUtil.class
+boh\qa\automation\framework\utils\WaitUtil.class
+boh\qa\automation\framework\utils\JavaScriptUtil.class
